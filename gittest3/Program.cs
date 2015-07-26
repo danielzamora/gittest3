@@ -10,9 +10,9 @@ namespace gittest3
     {
         static void Main(string[] args)
         {
-            int a = 24;
-            int b = 34;
-            int c = 44;
+            int a = 25;
+            int b = 35;
+            int c = 45;
         }
     }
 }
